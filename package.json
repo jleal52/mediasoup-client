@@ -62,7 +62,7 @@
   },
   "dependencies": {
     "@types/debug": "^4.1.8",
-    "awaitqueue": "^3.0.1",
+    "awaitqueue": "git+https://github.com/jleal52/awaitqueue.git#vozipcenter",
     "debug": "^4.3.4",
     "events": "^3.3.0",
     "fake-mediastreamtrack": "^1.1.6",
